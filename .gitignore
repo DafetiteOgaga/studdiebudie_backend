@@ -1,0 +1,14 @@
+studdiebudiebackend/__pycache__
+venv_studdiebudie
+taketest/migrations/__pycache__
+taketest/__pycache__
+contribute/migrations/__pycache__
+contribute/__pycache__
+db.sqlite3
+shufflequestions/utils/__pycache__
+shufflequestions/migrations/__pycache__
+shufflequestions/__pycache__
+defaultpage/migrations/__pycache__
+defaultpage/__pycache__
+root_utils/__pycache__
+public
