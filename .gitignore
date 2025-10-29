@@ -12,3 +12,5 @@ defaultpage/migrations/__pycache__
 defaultpage/__pycache__
 root_utils/__pycache__
 public
+hooks/__pycache__
+hooks/dont_push.py
